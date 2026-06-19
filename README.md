@@ -1,6 +1,6 @@
 # Auto Travel (PoE Trade)
 
-Auto-clicks **"Travel to Hideout"** on the top live-search result on the [Path of Exile trade site](https://www.pathofexile.com/trade), and, if prompted, auto-clicks the follow-up confirmation (**"Teleport anyway?"** / **"In demand"**). Includes a settings UI, optional auto-refresh, and safety guards against double-clicking or runaway loops.
+Auto-clicks **"Travel to Hideout"** on the top live-search result on the [Path of Exile trade site](https://www.pathofexile.com/trade2), and, if prompted, auto-clicks the follow-up confirmation (**"Teleport anyway?"** / **"In demand"**). Includes a settings UI, optional auto-refresh, and safety guards against double-clicking or runaway loops.
 
 Two versions are included:
 
