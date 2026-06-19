@@ -6,7 +6,6 @@ Two versions are included:
 
 | Version | File(s) | Use case |
 |---|---|---|
-| Chrome Extension (MV3) | `manifest.json`, `content.js`, `popup.html`, `popup.js` | Chrome / Edge / Brave / other Chromium browsers |
 | Userscript | `auto-travel.user.js` | Any browser, via Tampermonkey / Violentmonkey / Greasemonkey |
 
 Both versions share the same click logic and behave identically.
